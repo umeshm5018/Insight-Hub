@@ -1,1 +1,1 @@
-Actionable Data Intelligence Dashboard Enhancing effective Decision-making. Includes MIS. (Power BI, V-lookup and X-lookup comming soon.)
+Developed and produced initial MIS report in Excel, demonstrating proficiency in data analysis, visualization, and reporting to support informed decision-making. (Power BI, V-lookup and X-lookup comming soon.)
